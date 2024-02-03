@@ -30,7 +30,7 @@ With this project, you can easily set up user management, define page-level perm
   <li>Clone the repository to your local machine:</li>
 </ol>
 
-<pre><code>git clone https://github.com/Helalbrur/laravel-route-based-access.git
+<pre><code>git clone https://github.com/shafiqpab/laravel-route-based-access.git
 </code></pre>
 
 <ol start="2">
